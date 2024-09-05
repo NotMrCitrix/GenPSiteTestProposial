@@ -20,14 +20,12 @@ During setup, if shown do NOT install AGS (Adobe Genuine Service), if not shown,
 ![image](https://github.com/user-attachments/assets/ee77c56f-e2ad-4e16-ae59-93ce3ec1837b)
 
 Once installed go to Menu > File > Preferences and in the "General" tab disable the following:
+```
 Launch at login
-~~~bash
 Sync files in the background after quitting
 Automatically keep it updated
+```
 Once that is done go Menu > File > Exit Creative Cloud
-~~~
-
-
  
 
 ##2. Download the latest GenP in the guide - Extract ALL contents from zip
