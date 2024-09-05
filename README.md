@@ -9,7 +9,7 @@ You can forget about it without a valid subscription or active trial (7 days). I
 
 
 
-##1. Download & Install Creative Cloud
+## 1. Download & Install Creative Cloud
 
 If you get a .dmg file when you download Creative Cloud, it's likely because you're using Opera, which tells Adobe that you're on a Mac (for some reason). Use a different browser.
 
@@ -18,8 +18,10 @@ You can Create a free account using your email or a temporary email (search on G
 During setup, if shown do NOT install AGS (Adobe Genuine Service), if not shown, continue anyway
 ![image](https://github.com/user-attachments/assets/da5c1ff3-28f3-4783-83bc-fda7962b7cac)
 ![image](https://github.com/user-attachments/assets/ee77c56f-e2ad-4e16-ae59-93ce3ec1837b)
+![image](https://github.com/user-attachments/assets/7977b422-ca28-4f7a-9c89-1ca009f48218)
 
-Once installed go to Menu > File > Preferences and in the "General" tab disable the following:
+
+Once installed go to ```Menu > File > Preferences and in the "General``` tab disable the following:
 ```
 Launch at login
 Sync files in the background after quitting
@@ -28,7 +30,7 @@ Automatically keep it updated
 Once that is done go Menu > File > Exit Creative Cloud
  
 
-##2. Download the latest GenP in the guide - Extract ALL contents from zip
+## 2. Download the latest GenP in the guide - Extract ALL contents from zip
 
 Once you have the .zip file, Right-click and “Extract All” contents.
 
@@ -70,7 +72,7 @@ Make sure you're using the latest GenP, it should ask you a Yes or No question o
 
  
 
-##4. Open Creative Cloud > Apps > Install
+## 4. Open Creative Cloud > Apps > Install
 
 On the side menu, if you click on “Apps”
 
@@ -82,7 +84,7 @@ Once everything you want is installed, go to Menu > File > Exit Creative Cloud
 
  
 
-##5. Run GenP on the installed apps
+## 5. Run GenP on the installed apps
 
 Open GenP folder > Run "AdobeGenP.exe"
 
@@ -92,22 +94,18 @@ You can de-select the respective paths if you have any programs you don’t want
 
 Finally, click on the button “PATCH” to run the patch on the apps and wait until it’s done.
 
+ **6. OPEN THE APPS THROUGH THEIR .EXE and NOT FROM Creative Cloud directly;**
+
+Be aware that you are free to pin apps and open them from the taskbar, start, .exe, shortcut, etc. The important part is: Don’t open CC just to click OPEN on Photoshop, for example.
+
+Everything should be working now! End of Guide.
  
+
+# Tips
 
 ⚠️Possible Problem & Solution - Step 5
 
 ⚠️ If you’re having issues opening it, turn AntiVirus OFF and try again; however, don’t forget to turn it back ON after it’s patched.
 
- 
+ 💁‍♂️ Every time the apps get updated, you must apply the “Patch” on the respective apps again.
 
-💁‍♂️ Every time the apps get updated, you must apply the “Patch” on the respective apps again.
-
- 
-
- 
-
-6. OPEN THE APPS THROUGH THEIR .EXE and NOT FROM Creative Cloud directly;
-
-Be aware that you are free to pin apps and open them from the taskbar, start, .exe, shortcut, etc. The important part is: Don’t open CC just to click OPEN on Photoshop, for example.
-
-Everything should be working now! End of Guide.
